@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="apache-log4j-1.2">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/site/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/contribs/CekiGulcu" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/contribs/Jamie Tsao" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/contribs/JimMoore" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/contribs/ThomasFenner" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/src/main/java" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/src/main/javadoc" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/src/performance/java" />
+      <root url="jar://D:/Books/王者歸來JavaWeb/libs/apache-log4j-1.2.15.zip!/apache-log4j-1.2.15/tests/src/java" />
+    </SOURCES>
+  </library>
+</component>
