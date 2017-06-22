@@ -56,7 +56,7 @@ public class OutputReplaceFilter implements Filter {
         String realPath = config.getServletContext().getRealPath(file);
         try {
             properties.load(new FileInputStream(realPath));
-        } catch (IOException e) {
+        } catch (Exception e) {
             log.info("properties讀取失敗");
         }
     }
